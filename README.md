@@ -20,7 +20,7 @@ This package contains the following files and folder:
 
 -README 				: This file
 
--TDC_IP_CORE			        : This folder contains EDN, UCF and Wrapper files both for Spartan-6 FPGAs.
+-TDC_IP_CORE			        : This folder contains NGC, UCF and Wrapper files both for Spartan-6 FPGAs.
 
 
 Usage of the Security Primitive  
